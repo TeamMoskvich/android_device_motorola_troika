@@ -1,0 +1,2 @@
+add_lunch_combo omni_troika_sprout-eng
+add_lunch_combo omni_troika_sprout-userdebug
